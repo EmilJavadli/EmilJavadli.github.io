@@ -2,9 +2,8 @@ title: Emil Javadli # your name (or website title) here
 logo: "/images/EJ-photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Inspired data scientist 
-  <br><br>
-  Second description 
-  <br><br>
+  <br>After 8 years of finance and accounting experience<br>
+  
   <a href="https://www.linkedin.com/in/emil-javadli-182711a6/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
