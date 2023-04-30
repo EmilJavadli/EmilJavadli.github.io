@@ -1,4 +1,4 @@
-## My data science projects
+## Selected projects in data science and machine learning
 
 ---
 
