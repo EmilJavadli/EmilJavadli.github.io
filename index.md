@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Fraud Detection based on the specifications of the payments 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The goal of fraud detection is to identify patterns or anomalies in the data that may indicate fraudulent behavior. This can involve analyzing a range of data sources, such as financial transactions, user behavior, device data, and other contextual information.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
