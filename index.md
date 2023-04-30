@@ -8,7 +8,7 @@ The goal of fraud detection is to identify patterns or anomalies in the data tha
 
 <img src="images/faud_detection.jpg?raw=true"/>
 
-<a href="[https://www.linkedin.com/in/emil-javadli-182711a6](https://colab.research.google.com/drive/1XkQzwraZ0WONLY94eDm4ztxtaZkqUQmJ?usp=share_link)/">View code on Colab</a> 
+<a href="https://colab.research.google.com/drive/1XkQzwraZ0WONLY94eDm4ztxtaZkqUQmJ?usp=share_link">View code on Colab</a> 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
