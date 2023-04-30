@@ -1,4 +1,4 @@
-## Emil Javadli's data science and ML portfolio project
+## Emil Javadli's data science and ML project portfolio
 
 ### References
 
