@@ -6,6 +6,10 @@
 
 The goal of fraud detection is to identify patterns or anomalies in the data that may indicate fraudulent behavior. This can involve analyzing a range of data sources, such as financial transactions, user behavior, device data, and other contextual information.
 
+<img src="images/faud_detection.jpg?raw=true"/>
+
+<a href="[https://www.linkedin.com/in/emil-javadli-182711a6](https://colab.research.google.com/drive/1XkQzwraZ0WONLY94eDm4ztxtaZkqUQmJ?usp=share_link)/">View code on Colab</a> 
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
