@@ -15,7 +15,7 @@ The loan approval process involves a series of steps and criteria used by a lend
 
 <img src="images/Loan_approval.png?raw=true"/>
 
-<a href="https://colab.research.google.com/drive/10h-zGy8O6ksr9mR34oz-aJ8v1YmQjhCp?usp=sharing">View code on Colab</a> 
+<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Loan%20approval">View code on Colab</a> 
 
 ---
 
