@@ -25,7 +25,7 @@ The prediction of house prices based on the specifications of the houses typical
 
 <img src="images/House_prices.png?raw=true"/>
 
-<a href="">View code on Colab</a> 
+<a href="https://colab.research.google.com/drive/1WTYEC6E_odgHfl2DPtpVzJLRefwAh5SE">View code on Colab</a> 
 
 
 
