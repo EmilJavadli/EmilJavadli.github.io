@@ -6,7 +6,7 @@
 
 The objective of fraud detection is to detect any irregular patterns or anomalies within the data that could potentially indicate fraudulent activity. In this project, the focus was on identifying fraudulent transactions by analyzing the transaction amounts and various customer behaviors. To achieve this, an XGBoost Classifier was utilized in conjunction with the fine-tuning algorithm BayesSearch.
 <img src="images/Fraud_detection.png?raw=true"/>
-<a href="https://colab.research.google.com/drive/1XkQzwraZ0WONLY94eDm4ztxtaZkqUQmJ?usp=share_link">View code on Colab</a> 
+<a href="https://my.shell.com/:f:/g/personal/emil_javadli_shell_com/EvAGtqTmjWlMt8ilWxhbOEIBc1U6yiiv1KL8JRMmMn5SuQ?e=mzSxX8">View file on OneDrive</a> 
 
 ---
 ### Loan approval of customers who applied for a loan based on the specifications of applicants 
