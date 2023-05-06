@@ -19,7 +19,13 @@ The loan approval process involves a series of steps and criteria used by a lend
 
 ---
 
-###  
+### Prediction of house prices based on the specifications of the houses in Ames city 
+
+The prediction of house prices based on the specifications of the houses typically involves using a regression model to estimate the relationship between various features or characteristics of the houses (such as the number of bedrooms, square footage, location, etc.) and their sale prices.
+
+<img src="images/House_prices.png?raw=true"/>
+
+<a href="">View code on Colab</a> 
 
 
 
