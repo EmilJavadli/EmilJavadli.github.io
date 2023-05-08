@@ -25,15 +25,25 @@ The prediction of house prices based on the specifications of the houses typical
 
 <img src="images/House_prices.png?raw=true"/>
 
+<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Fatal_Shooting">View code on GitHub</a> 
+
+---
+
+### Prediction of house prices based on the specifications of the houses in Ames city 
+
+The prediction of house prices based on the specifications of the houses typically involves using a regression model to estimate the relationship between various features or characteristics of the houses (such as the number of bedrooms, square footage, location, etc.) and their sale prices.
+
+<img src="images/House_prices.png?raw=true"/>
+
 <a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Housing">View code on GitHub</a> 
 
 ---
 
-### Prediction of insurance premium charges based on the specifications of the insurers 
+### Analysis of the fatal shooting in the US by police officer since 2015  
 
-This task involves building a model to predict the insurance premium charges based on the specifications of the insurers. This requires analyzing the relationships between various factors such as age, gender, smoking status, BMI, and other medical conditions and their impact on insurance premiums.
+The header refers to an analysis of the fatal shooting incidents by police officers in the United States starting from 2015. The analysis may involve examining various factors such as demographics, location, and circumstances of the incidents.
 
-<img src="images/Insurance.png?raw=true"/>
+<img src="images/Fatal_force.png?raw=true"/>
 
 <a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Health%20insurance">View code on GitHub</a> 
 
