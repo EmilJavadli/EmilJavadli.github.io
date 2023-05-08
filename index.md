@@ -25,7 +25,7 @@ The prediction of house prices based on the specifications of the houses typical
 
 <img src="images/House_prices.png?raw=true"/>
 
-<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Fatal_Shooting">View code on GitHub</a> 
+<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Housing">View code on GitHub</a> 
 
 ---
 
