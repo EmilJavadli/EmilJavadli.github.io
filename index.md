@@ -27,6 +27,15 @@ The prediction of house prices based on the specifications of the houses typical
 
 <a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Housing">View code on GitHub</a> 
 
+---
+
+### Prediction of insurance premium charges based on the specifications of the insurers 
+
+This task involves building a model to predict the insurance premium charges based on the specifications of the insurers. This requires analyzing the relationships between various factors such as age, gender, smoking status, BMI, and other medical conditions and their impact on insurance premiums.
+
+<img src="images/Insurance.png?raw=true"/>
+
+<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Health%20insurance">View code on GitHub</a> 
 
 
 
