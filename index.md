@@ -54,7 +54,7 @@ The header refers to an analysis of the fatal shooting incidents by police offic
 This header includes an analysis of the trends in meat consumption worldwide, covering the period from 1990 up to a forecast for 2028. The analysis covers insights into the patterns and changes in meat consumption over time, and provides forecasts or projections for future trends.
 
 <img src="images/Meat.png?raw=true"/>
-
+<img src="images/Meat_by_year.png?raw=true"/>
 <a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Meat">View code on GitHub</a> 
 
 
