@@ -51,7 +51,7 @@ The header refers to an analysis of the fatal shooting incidents by police offic
 
 ### Analysis of the meat consumption over the world since 1990 until 2028 forecast  
 
-This header includes an analysis of the trends in meat consumption worldwide, covering the period from 1990 up to a forecast for 2028. The analysis likely includes insights into the patterns and changes in meat consumption over time, and may provide forecasts or projections for future trends.
+This header includes an analysis of the trends in meat consumption worldwide, covering the period from 1990 up to a forecast for 2028. The analysis covers insights into the patterns and changes in meat consumption over time, and provides forecasts or projections for future trends.
 
 <img src="images/Meat.png?raw=true"/>
 
