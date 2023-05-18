@@ -57,7 +57,14 @@ This header includes an analysis of the trends in meat consumption worldwide, co
 <img src="images/Meat_by_year.png?raw=true"/>
 <a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Meat">View code on GitHub</a> 
 
+---
 
+### Classification of mobile phone price category according to the features of the mobile phones
+
+The classification of mobile phone price category involves categorizing mobile phones into different price ranges or classes based on various features or attributes. This task aims to assist manufacturers in understanding the pricing patterns and making informed decisions.
+
+<img src="images/Mobile.png?raw=true"/>
+<a href="https://github.com/EmilJavadli/EmilJavadli.github.io/tree/master/Mobile%20price">View code on GitHub</a> 
 
 
 <!-- Remove above link if you don't want to attibute -->
